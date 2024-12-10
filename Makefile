@@ -1,1 +1,1 @@
-obj-m += cats.o
+obj-m += hello.o
