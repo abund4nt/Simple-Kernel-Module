@@ -29,3 +29,7 @@ To remove the module from the kernel you can use `rmmod`.
 ```shell
 $ sudo rmmod hello-1
 ```
+
+## References
+
+- [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
